@@ -1,2 +1,88 @@
-# ChemistryOfTheSenses
-3D molecule descriptions, from the research project WKP 184
+# Chemistry of the Senses — Working Molecule Sheets
+
+This repository contains *working* illustrations and short descriptions of molecules prepared in **ChemDraw**. The goal is to keep a clean, versioned set of figures for teaching, exhibition handouts, and science-communication assets.
+
+
+> Source ChemDraw files (`.cdx/.cdxml`) should live in the same repo (e.g., `src/`), but the **publishable** assets used on slides, print, and web live in `img/`.
+
+## Naming & export conventions
+
+- **File names:** `MoleculeName[.variant].ext` (ASCII where possible).  
+  Examples: `Lutein.png`, `Gambanol3.png`, `PA6.2.png`.
+- **Variants:** Use numeric suffixes for alternative layouts/labeling (e.g., `…1.png`, `…2.png`).
+- **Resolution:** Export at 300 dpi for print; 150–200 dpi for web.  
+- **Background:** Transparent where helpful; otherwise white.
+- **Colors/fonts:** Keep a consistent palette and ChemDraw font set for legibility.
+- **Metadata:** Add a one-line purpose/notes entry in the table below when you update figures.
+
+> **Note on filenames with spaces/umlauts:** This gallery uses Markdown’s `<…>` path form so files like `Hanffaser3dünn.png` and `Iodopsin.11-cis retinal.png` resolve correctly.
+
+---
+
+## Image Gallery (from `img/`)
+
+### Aesculin
+- ![Aesculin](<img/Aesculin.png>)
+- ![Aesculin (TIF)](<img/Aesculin.tif>)
+- ![Aesculin variant](<img/Aesculin1.png>)
+
+### Gambanol
+- ![Gambanol](<img/Gambanol.png>)
+- ![Gambanol variant 1](<img/Gambanol1.png>)
+- ![Gambanol variant 3](<img/Gambanol3.png>)
+
+### Hanffaser (hemp fiber; structural views)
+- ![Hanffaser](<img/Hanffaser.png>)
+- ![Hanffaser 1](<img/Hanffaser1.png>)
+- ![Hanffaser 2](<img/Hanffaser2.png>)
+- ![Hanffaser 3 dünn](<img/Hanffaser3dünn.png>)
+
+### Iodopsin / 11-cis-retinal (visual pigment context)
+- ![Iodopsin · 11-cis retinal](<img/Iodopsin.11-cis retinal.png>)
+- ![Iodopsin · 11-cis retinal 1](<img/Iodopsin.11-cis retinal1.png>)
+- ![Iodopsin · 11-cis retinal 2](<img/Iodopsin.11-cis retinal2.png>)
+
+### Lutein
+- ![Lutein](<img/Lutein.png>)
+- ![Lutein 1](<img/Lutein1.png>)
+- ![Lutein 3](<img/Lutein3.png>)
+
+### Octanol
+- ![Octanol](<img/octanol.png>)
+
+### Polyamide-6 (PA6)
+- ![PA6](<img/PA6.png>)
+- ![PA6.1](<img/PA6.1.png>)
+- ![PA6.2](<img/PA6.2.png>)
+
+---
+
+## Descriptor table (fill as you go)
+
+| File | Short description / context | Print? | Web? | Notes |
+|-----:|-----------------------------|:-----:|:----:|------|
+| Aesculin.png | | ☐ | ☐ | |
+| Aesculin1.png | | ☐ | ☐ | |
+| Gambanol3.png | | ☐ | ☐ | |
+| Hanffaser3dünn.png | | ☐ | ☐ | |
+| Iodopsin.11-cis retinal2.png | | ☐ | ☐ | |
+| Lutein3.png | | ☐ | ☐ | |
+| octanol.png | | ☐ | ☐ | |
+| PA6.2.png | | ☐ | ☐ | |
+
+*(Add rows for any additional files as needed.)*
+
+## How to update figures
+
+1. Edit the ChemDraw source.
+2. Export to `img/` using the conventions above.
+3. Commit with a clear message, e.g.,  
+   `feat(img): update Lutein layout; add labels; export @300dpi`
+4. If the filename changes, update the gallery links in this README.
+
+## License & attribution
+
+- Unless stated otherwise, images © project contributors, released under **CC BY 4.0** (adapt if different).  
+- Please credit “Chemistry of the Senses project” in publications/exhibits where these figures are used.
+
+---
