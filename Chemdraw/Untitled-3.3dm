@@ -1,0 +1,985 @@
+3DMetafile ( 1 0 Normal tableofcontents0> )
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+-1.395 -1.390 -1.860 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+-0.223 -1.886 -1.179 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+-0.415 -1.270 0.200 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+-0.055 0.209 0.150 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-1.450 -1.837 -2.878 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-2.305 -1.668 -1.281 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+0.741 -1.627 -1.671 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-0.216 -2.998 -1.133 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-1.478 -1.382 0.512 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+0.244 -1.787 0.933 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-0.658 1.932 -1.167 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+1.457 0.360 0.054 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+1.799 1.353 1.157 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+1.790 0.705 -0.951 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+1.964 -0.615 0.229 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+2.796 1.134 1.601 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+1.835 2.387 0.746 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-1.127 1.818 1.163 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+0.604 2.190 2.744 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+0.961 0.438 2.904 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-1.775 0.599 -2.841 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+-0.555 0.897 1.414 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.431 0.000 
+0.000 0.000 -1.431 
+-1.431 0.000 0.000 
+0.719 1.242 2.174 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.462 0.000 
+0.000 0.000 -1.462 
+-1.462 0.000 0.000 
+-0.697 0.839 -1.048 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.462 0.000 
+0.000 0.000 -1.462 
+-1.462 0.000 0.000 
+-1.315 0.101 -1.975 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Ellipsoid (
+0.000 1.135 0.000 
+0.000 0.000 -1.135 
+-1.135 0.000 0.000 
+-1.246 0.256 2.005 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.586 -0.248 0.340 
+0.097 0.230 0.000 
+0.109 -0.046 -0.220 
+-1.395 -1.390 -1.860 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.586 -0.248 0.340 
+0.097 0.230 0.000 
+0.109 -0.046 -0.220 
+-0.809 -1.638 -1.520 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.096 0.308 0.690 
+-0.239 -0.074 0.000 
+-0.067 0.216 -0.106 
+-0.223 -1.886 -1.179 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.096 0.308 0.690 
+-0.239 -0.074 0.000 
+-0.067 0.216 -0.106 
+-0.319 -1.578 -0.490 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.180 0.739 -0.025 
+-0.243 0.059 0.000 
+-0.002 -0.008 -0.250 
+-0.415 -1.270 0.200 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.180 0.739 -0.025 
+-0.243 0.059 0.000 
+-0.002 -0.008 -0.250 
+-0.235 -0.530 0.175 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.027 -0.224 -0.509 
+0.248 -0.030 0.000 
+0.028 0.227 -0.101 
+-1.395 -1.390 -1.860 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.027 -0.224 -0.509 
+0.248 -0.030 0.000 
+0.028 0.227 -0.101 
+-1.423 -1.613 -2.369 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.455 -0.139 0.289 
+0.073 -0.239 0.000 
+-0.124 -0.038 -0.214 
+-1.395 -1.390 -1.860 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.455 -0.139 0.289 
+0.073 -0.239 0.000 
+-0.124 -0.038 -0.214 
+-1.850 -1.529 -1.571 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.482 0.130 -0.246 
+-0.065 0.241 0.000 
+-0.107 -0.029 -0.224 
+-0.223 -1.886 -1.179 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.482 0.130 -0.246 
+-0.065 0.241 0.000 
+-0.107 -0.029 -0.224 
+0.259 -1.757 -1.425 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.004 -0.556 0.023 
+0.250 0.002 0.000 
+0.000 -0.010 -0.250 
+-0.223 -1.886 -1.179 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.004 -0.556 0.023 
+0.250 0.002 0.000 
+0.000 -0.010 -0.250 
+-0.219 -2.442 -1.156 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.531 -0.056 0.156 
+0.026 -0.249 0.000 
+-0.070 -0.007 -0.240 
+-0.415 -1.270 0.200 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.531 -0.056 0.156 
+0.026 -0.249 0.000 
+-0.070 -0.007 -0.240 
+-0.947 -1.326 0.356 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.330 -0.259 0.366 
+0.154 0.197 0.000 
+0.129 -0.102 -0.188 
+-0.415 -1.270 0.200 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.330 -0.259 0.366 
+0.154 0.197 0.000 
+0.129 -0.102 -0.188 
+-0.086 -1.528 0.566 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.019 0.546 -0.060 
+-0.250 0.009 0.000 
+-0.001 -0.027 -0.249 
+-0.697 0.839 -1.048 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.019 0.546 -0.060 
+-0.250 0.009 0.000 
+-0.001 -0.027 -0.249 
+-0.677 1.385 -1.107 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.756 0.076 -0.048 
+-0.025 0.249 0.000 
+-0.016 -0.002 -0.250 
+-0.055 0.209 0.150 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.756 0.076 -0.048 
+-0.025 0.249 0.000 
+-0.016 -0.002 -0.250 
+0.701 0.285 0.102 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.171 0.496 0.552 
+-0.236 0.081 0.000 
+0.059 0.171 -0.172 
+1.457 0.360 0.054 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.171 0.496 0.552 
+-0.236 0.081 0.000 
+0.059 0.171 -0.172 
+1.628 0.857 0.605 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.167 0.172 -0.502 
+-0.180 0.174 0.000 
+-0.157 -0.162 -0.108 
+1.457 0.360 0.054 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.167 0.172 -0.502 
+-0.180 0.174 0.000 
+-0.157 -0.162 -0.108 
+1.624 0.533 -0.449 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.253 -0.488 0.088 
+0.222 0.115 0.000 
+0.018 -0.035 -0.247 
+1.457 0.360 0.054 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.253 -0.488 0.088 
+0.222 0.115 0.000 
+0.018 -0.035 -0.247 
+1.711 -0.127 0.141 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.498 -0.109 0.222 
+0.054 0.244 0.000 
+0.098 -0.021 -0.229 
+1.799 1.353 1.157 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.498 -0.109 0.222 
+0.054 0.244 0.000 
+0.098 -0.021 -0.229 
+2.298 1.244 1.379 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.018 0.517 -0.205 
+-0.250 0.009 0.000 
+-0.003 -0.092 -0.232 
+1.799 1.353 1.157 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.018 0.517 -0.205 
+-0.250 0.009 0.000 
+-0.003 -0.092 -0.232 
+1.817 1.870 0.951 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.637 -0.173 -0.380 
+0.065 -0.241 0.000 
+0.120 0.033 -0.217 
+0.719 1.242 2.174 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.637 -0.173 -0.380 
+0.065 -0.241 0.000 
+0.120 0.033 -0.217 
+0.082 1.069 1.794 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.540 -0.056 0.508 
+0.026 -0.249 0.000 
+-0.170 -0.018 -0.182 
+1.799 1.353 1.157 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.540 -0.056 0.508 
+0.026 -0.249 0.000 
+-0.170 -0.018 -0.182 
+1.259 1.298 1.665 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.250 -0.344 -0.632 
+0.202 0.147 0.000 
+-0.122 0.168 -0.140 
+-0.555 0.897 1.414 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.250 -0.344 -0.632 
+0.202 0.147 0.000 
+-0.122 0.168 -0.140 
+-0.305 0.553 0.782 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.321 0.315 -0.599 
+-0.175 -0.178 0.000 
+0.143 -0.140 -0.150 
+-0.055 0.209 0.150 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.321 0.315 -0.599 
+-0.175 -0.178 0.000 
+0.143 -0.140 -0.150 
+-0.376 0.524 -0.449 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.309 -0.369 -0.464 
+0.128 -0.107 0.000 
+0.074 0.089 -0.120 
+-0.741 1.005 -1.150 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.309 -0.369 -0.464 
+0.128 -0.107 0.000 
+0.074 0.089 -0.120 
+-1.050 0.636 -1.614 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.309 -0.369 -0.464 
+0.128 -0.107 0.000 
+0.074 0.089 -0.120 
+-0.653 0.673 -0.945 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.309 -0.369 -0.464 
+0.128 -0.107 0.000 
+0.074 0.089 -0.120 
+-0.962 0.304 -1.409 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.040 -0.745 0.058 
+0.250 -0.013 0.000 
+-0.001 -0.019 -0.249 
+-1.315 0.101 -1.975 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.040 -0.745 0.058 
+0.250 -0.013 0.000 
+-0.001 -0.019 -0.249 
+-1.355 -0.645 -1.917 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.230 0.249 -0.433 
+-0.184 -0.169 0.000 
+0.133 -0.145 -0.154 
+-1.315 0.101 -1.975 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.230 0.249 -0.433 
+-0.184 -0.169 0.000 
+0.133 -0.145 -0.154 
+-1.545 0.350 -2.408 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+0.121 -0.402 0.365 
+0.239 0.072 0.000 
+0.047 -0.157 -0.189 
+0.719 1.242 2.174 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+0.121 -0.402 0.365 
+0.239 0.072 0.000 
+0.047 -0.157 -0.189 
+0.840 0.840 2.539 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.058 0.474 0.285 
+-0.248 -0.030 0.000 
+-0.016 0.127 -0.215 
+0.719 1.242 2.174 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.058 0.474 0.285 
+-0.248 -0.030 0.000 
+-0.016 0.127 -0.215 
+0.661 1.716 2.459 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.286 0.461 -0.126 
+-0.212 -0.132 0.000 
+0.030 -0.048 -0.244 
+-0.555 0.897 1.414 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.286 0.461 -0.126 
+-0.212 -0.132 0.000 
+0.030 -0.048 -0.244 
+-0.841 1.357 1.288 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
+Container (
+Cylinder (
+-0.346 -0.320 0.296 
+0.170 -0.183 0.000 
+-0.097 -0.090 -0.212 
+-0.555 0.897 1.414 
+)
+Container (
+AttributeSet()
+DiffuseColor(0.667 0.667 0.667 )
+)
+)
+Container (
+Cylinder (
+-0.346 -0.320 0.296 
+0.170 -0.183 0.000 
+-0.097 -0.090 -0.212 
+-0.901 0.576 1.709 
+)
+Container (
+AttributeSet()
+DiffuseColor(1.000 1.000 1.000 )
+)
+)
